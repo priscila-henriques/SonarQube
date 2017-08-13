@@ -31,5 +31,19 @@ Login: admin
 
 Senha: admin 
 
+4. Projeto
+
+4.1 Criar o projeto 
+4.2 Criar (key) do Projeto 
+4.3 Dar permissão para usuario nas seções do projeto: 
+- Browse
+
+- See source code 
+
+- Administer issues 
+
+- Administer
+
+- Execute Analysis 
 
 
