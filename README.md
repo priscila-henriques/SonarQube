@@ -19,7 +19,6 @@ sonar.jdbc.password=123456
 
 Login: admin 
 Senha: admin 
-
 (default) 
 
 
