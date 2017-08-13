@@ -58,7 +58,7 @@ sonar.projectName=ApiYandeh
 
 sonar.projectVersion=1.0
 
-6) executar o sonar =: 
+6) executar o sonar
 
 linha de comando cmd dentro do projeto que será analisado:
 
