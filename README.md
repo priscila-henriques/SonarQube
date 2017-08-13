@@ -58,5 +58,12 @@ sonar.projectName=ApiYandeh
 
 sonar.projectVersion=1.0
 
+6) executar o sonar =: 
+
+linha de comando cmd dentro do projeto que será analisado:
+
+C:\sonar-scanner-3.0.3.778-windows\bin\sonar-scanner.bat
+
+
 
 
