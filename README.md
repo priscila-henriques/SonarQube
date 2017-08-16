@@ -1,5 +1,3 @@
-# SonarQube
-
 ![aaeaaqaaaaaaaaccaaaajdywnmqzndmyltqxzdetndvhmi1izjgwltm2mmfhndi0nwuwmw](https://user-images.githubusercontent.com/4249709/29342568-d8977fda-8201-11e7-92e8-9191627ab853.png)
 
 Objetivo: 
