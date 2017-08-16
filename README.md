@@ -6,7 +6,7 @@ Objetivo:
 
 1) Criar a base de dados: 
 
-CREATE DATABASE sonar CHARACTER SET utf8 COLLATE utf8_general_ci;
+    CREATE DATABASE sonar CHARACTER SET utf8 COLLATE utf8_general_ci;
 
 CREATE USER ‘sonar’ IDENTIFIED BY ‘sonar’;
 
