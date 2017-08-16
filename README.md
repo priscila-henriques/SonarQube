@@ -1,5 +1,7 @@
 # SonarQube
 
+![aaeaaqaaaaaaaaccaaaajdywnmqzndmyltqxzdetndvhmi1izjgwltm2mmfhndi0nwuwmw](https://user-images.githubusercontent.com/4249709/29342568-d8977fda-8201-11e7-92e8-9191627ab853.png)
+
 Objetivo: 
 É uma ferramenta de analise na qualidade do código. Fazendo análise estática e a partir disso coleta informações que definiram o grau de débito técnico existente no projeto. 
 
