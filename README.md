@@ -18,55 +18,55 @@
 
 ## Configurar o banco de dados no arquivo "Sonar.Prorpeties": 
 
-sonar.jdbc.url=jdbc:mysql://localhost:3306/sonar?useUnicode=true&characterEncoding=utf8&rewriteBatchedStatements=true&useConfigs=maxPerformance
+    sonar.jdbc.url=jdbc:mysql://localhost:3306/sonar?useUnicode=true&characterEncoding=utf8&rewriteBatchedStatements=true&useConfigs=maxPerformance
 
-sonar.jdbc.driverClassName=com.mysql.jdbc.Driver
+    sonar.jdbc.driverClassName=com.mysql.jdbc.Driver
 
-sonar.jdbc.validationQuery=select 1
+    sonar.jdbc.validationQuery=select 1
 
-sonar.jdbc.username=root
+    sonar.jdbc.username=root
 
-sonar.jdbc.password=123456
+    sonar.jdbc.password=123456
 
 
 ## Logar no Sonar(default) 
  
-Login: admin 
+    Login: admin 
 
-Senha: admin 
+    Senha: admin 
 
-4) Projeto
+## Projeto
 
-4.1 Criar o projeto 
-4.2 Criar (key) do Projeto 
-4.3 Dar permissão para usuario nas seções do projeto: 
-- Browse
+    4.1 Criar o projeto 
+    4.2 Criar (key) do Projeto 
+    4.3 Dar permissão para usuario nas seções do projeto: 
+    - Browser
 
-- See source code 
+    - See source code 
 
-- Administer issues 
+    - Administer issues 
 
-- Administer
+    - Administer
 
-- Execute Analysis 
+    - Execute Analysis 
 
-5) Configurar o arquivo (sonar-scanner.properties):
+## Configurar o arquivo (sonar-scanner.properties):
 
-sonar.login=admin
+    sonar.login=admin
 
-sonar.password=admin
+    sonar.password=admin
 
-sonar.projectKey=apiyandeh
+    sonar.projectKey=apiyandeh
 
-sonar.projectName=ApiYandeh
+    sonar.projectName=ApiYandeh
 
-sonar.projectVersion=1.0
+    sonar.projectVersion=1.0
 
-6) executar o sonar
+## executar o sonar
 
-linha de comando cmd dentro do projeto que será analisado:
+    linha de comando cmd dentro do projeto que será analisado:
 
-C:\sonar-scanner-3.0.3.778-windows\bin\sonar-scanner.bat
+    C:\sonar-scanner-3.0.3.778-windows\bin\sonar-scanner.bat
 
 
 
