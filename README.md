@@ -4,7 +4,7 @@ Objetivo:
 É uma ferramenta de analise na qualidade do código. Fazendo análise estática e a partir disso coleta informações que definiram o grau de débito técnico existente no projeto. 
 
 
-1) Criar a base de dados: 
+## Criar a base de dados: 
 
     CREATE DATABASE sonar CHARACTER SET utf8 COLLATE utf8_general_ci;
 
