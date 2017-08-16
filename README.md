@@ -16,7 +16,7 @@
 
     FLUSH PRIVILEGES;
 
-2) Configurar o banco de dados no arquivo "Sonar.Prorpeties": 
+## Configurar o banco de dados no arquivo "Sonar.Prorpeties": 
 
 sonar.jdbc.url=jdbc:mysql://localhost:3306/sonar?useUnicode=true&characterEncoding=utf8&rewriteBatchedStatements=true&useConfigs=maxPerformance
 
@@ -29,7 +29,7 @@ sonar.jdbc.username=root
 sonar.jdbc.password=123456
 
 
-3) Logar no Sonar(default) 
+## Logar no Sonar(default) 
  
 Login: admin 
 
