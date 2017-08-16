@@ -67,6 +67,15 @@
     linha de comando cmd dentro do projeto que será analisado:
 
     C:\sonar-scanner-3.0.3.778-windows\bin\sonar-scanner.bat
+    
+    
+ ## Configurar a variável de ambiente SONAR_RUNNER: 
+ 
+    %SONAR_RUNNER_HOME% 
+    Caminho: C:\Users\priscila.ribeiro\Documents\sonarqube-6.5\bin\windows-x86-64
+    
+    
+ 
 
 
 
